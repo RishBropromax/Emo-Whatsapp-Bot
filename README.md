@@ -56,7 +56,7 @@ This is whatsapp Bot.This Bot Can Download video ,Songs This Bot Can Make Logo..
 #### සරල ක්‍රමය
 
 #### ඔබට පහසුවෙන්ම Repl.it මඟින් QR ගන්න පුලුවන්..පහල  බටනය භාවිත කරන්න
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/ImRishmika/Emo?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@ImRishmika/Emo-Whatsapp-Bot?v=1)
 
 
 #### Termux මඟින් ලබාගන්න
