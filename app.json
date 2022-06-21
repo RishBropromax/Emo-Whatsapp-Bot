@@ -27,7 +27,7 @@
         "BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "👩‍🦰©Amazone Alexa"
+            "value": "👩 Emo Bot "
         },
         "FULL_ALEXA": {
             "description": "Activate Emo chat bot",
