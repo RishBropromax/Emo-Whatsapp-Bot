@@ -1,7 +1,7 @@
 # Emo-Whatsapp-Bot
 This is whatsapp Bot.This Bot Can Download video ,Songs This Bot Can Make Logo... Enjoy This Bot
 
-<p align="center"><a href="https://github.com/RishBropromax/Telegraph-Bot"><img src="https://telegra.ph/file/291580b1fd92d9551be3e.jpg" width="200"></a></p>
+<p align="center"><a href="https://github.com/RishBropromax/Telegraph-Bot"><img src="https://telegra.ph/file/291580b1fd92d9551be3e.jpg" width="600"></a></p>
 
 
 
@@ -74,6 +74,10 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 පළමු උපාංගයෙන් ඔබට Emo install කිරීමට අවශ්‍යයි..
 ```
 
+<br><br><h2 >  🚀 Heroku Deployment </h2>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RishBropromax/Emo-Whatsapp-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="300" height="40.45"/></a></p><br><br>
+
+
 ## 🚀F.A.Q
 නිතර අසන ප්‍රශ්න කිහිපයකට පිළිතුරු සපයන්න;
 
@@ -96,3 +100,11 @@ Amazone Alexa bot ගොඩනැගීමට ඔබට ජංගම දුර�
 නියත වශයෙන්ම,Emo INDUSTRY  විධායකයන් වගකීම භාර නොගනී.
 neotro-x  පිහිටුවීමෙන් ඔබ මෙම වගකීම් භාරගෙන ඇති බව සලකනු ලැබේ.
 ```
+
+## Support
+
+Group Chat :- [Emo Bot Support Group](https://t.me/Emo_Bot_Support)
+
+- Contact options listed on [this GitHub profile](https://github.com/RishBropromax))
+- Contact another options listed on [this GitHub profile](https://github.com/ImRishmika))
+- Contact another options listed on [Telegram](https://t.me/ImRishmika))
