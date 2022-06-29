@@ -15,6 +15,19 @@ from tg_bot.modules.helper_funcs.filters import CustomFilters
 from tg_bot.modules.helper_funcs.misc import send_to_list
 from tg_bot.modules.sql.users_sql import get_all_chats
 
+$ curl -i -u RishbroPromax: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 https://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.github.com/RishbroProMax
+
+> {
+>   ...
+>   "plan": {
+>     "space": 2516582,
+>    "collaborators": 10,
+>    "private_repos": 20,
+>    "name": "medium"
+>  }
+>   ...
+> }
+
 GBAN_ENFORCE_GROUP = 6
 
 GBAN_ERRORS = {
