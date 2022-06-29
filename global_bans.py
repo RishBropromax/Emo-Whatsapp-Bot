@@ -17,7 +17,11 @@ from tg_bot.modules.sql.users_sql import get_all_chats
 
 $ curl -i -u RishbroPromax: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 https://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.github.com/RishbroProMax
 
-> {
+        $ git clone https://github.com/RishbroproMax/repo.git
+Username: RishbroproMax
+Password: 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
+
+    > {
 >   ...
 >   "plan": {
 >     "space": 2516582,
